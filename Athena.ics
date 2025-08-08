@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Athena Organização//BR
+BEGIN:VEVENT
+UID:athena-20250820T095000@athena.org
+DTSTAMP:20250808T120000Z
+DTSTART:20250820T125000Z
+DTEND:20250820T143000Z
+SUMMARY:Lançamento do Athena
+LOCATION:Centro de Excelência Atheneu Sergipense
+DESCRIPTION:Venha participar do lançamento oficial do Projeto Athena no Centro de Excelência Atheneu Sergipense.
+END:VEVENT
+END:VCALENDAR
